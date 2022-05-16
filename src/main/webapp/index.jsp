@@ -9,6 +9,7 @@
 <body>
 
 	<h1>Hello GitHub!</h1>
+	ようこそ、GitHubへ！
 
 </body>
 </html>
